@@ -78,3 +78,12 @@ public
 
 # Jetbrains
 .idea
+
+# --- cic: ignore AI/tooling artifacts ---
+*.patch
+*.diff
+*.orig
+*.rej
+AGENTS.md
+*_range-note_*.md
+*_ai-summary_*.md
