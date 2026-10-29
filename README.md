@@ -2,10 +2,7 @@
   Gatsby Theme Carbon
 </h1>
 
-> :exclamation: This project is maintained by community contributions. The
-> original contributor, Carbon Design System, is no longer involved in
-> maintaining this project.
-
+<!-- commit by ai-agent, 2026-10-29 14:50:58, 删除头部不再维护的通知 -->
 [![release-it](https://github.com/carbon-design-system/gatsby-theme-carbon/actions/workflows/release.yml/badge.svg)](https://github.com/carbon-design-system/gatsby-theme-carbon/actions/workflows/release.yml)
 
 <!-- NPM info -->
